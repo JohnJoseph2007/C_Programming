@@ -12,4 +12,4 @@ int main() {
 		c++;
 	} while (dec>0);
 	printf("Octal number: %d", oct);
-}	
+}
