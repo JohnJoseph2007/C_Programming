@@ -20,6 +20,7 @@ int main()
 	while(rev>0) {
 		digit = rev%10;
 		switch(digit) {
+			case 0: printf("ZERO "); break;
 			case 1: printf("ONE "); break;
 			case 2: printf("TWO "); break;
 			case 3: printf("THREE "); break;
